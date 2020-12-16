@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1606436528 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"eArticulo.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Parser.h"
+	"utn.h"
+	"Save.h"
+
+1606427285 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\earticulo.h
+
+1606352885 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\linkedlist.h
+
+1606287221 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\controller.h
+	"eArticulo.h"
+
+1606426348 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\parser.h
+
+1606288658 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\utn.h
+
+1606426536 c:\users\r2d2\documents\codeblock-workspace\parciallabo2\save.h
+
+1606430335 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+	"eArticulo.h"
+
+1606430996 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\earticulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"eArticulo.h"
+	"utn.h"
+
+1606430024 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606425713 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"eArticulo.h"
+	"utn.h"
+	"Parser.h"
+
+1606426447 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eArticulo.h"
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1606288661 source:c:\users\r2d2\documents\codeblock-workspace\parciallabo2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"utn.h"
+
